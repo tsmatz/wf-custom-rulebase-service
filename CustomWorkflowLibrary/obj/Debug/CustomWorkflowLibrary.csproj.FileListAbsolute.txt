@@ -1,0 +1,10 @@
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\CustomWorkflowLibrary\bin\Debug\CustomWorkflowLibrary.dll
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\CustomWorkflowLibrary\bin\Debug\CustomWorkflowLibrary.pdb
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\CustomWorkflowLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\CustomWorkflowLibrary\obj\Debug\CustomWorkflowLibrary.dll
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\CustomWorkflowLibrary\obj\Debug\CustomWorkflowLibrary.pdb
+C:\Demo\CustomRulebaseService\CustomWorkflowLibrary\bin\Debug\CustomWorkflowLibrary.dll
+C:\Demo\CustomRulebaseService\CustomWorkflowLibrary\bin\Debug\CustomWorkflowLibrary.pdb
+C:\Demo\CustomRulebaseService\CustomWorkflowLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\CustomRulebaseService\CustomWorkflowLibrary\obj\Debug\CustomWorkflowLibrary.dll
+C:\Demo\CustomRulebaseService\CustomWorkflowLibrary\obj\Debug\CustomWorkflowLibrary.pdb

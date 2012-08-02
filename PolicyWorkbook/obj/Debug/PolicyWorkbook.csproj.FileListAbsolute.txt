@@ -1,0 +1,11 @@
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\PolicyWorkbook\bin\Debug\PolicyWorkbook.dll
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\PolicyWorkbook\bin\Debug\PolicyWorkbook.pdb
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\PolicyWorkbook\bin\Debug\PolicyWorkbook.dll.manifest
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\PolicyWorkbook\bin\Debug\PolicyWorkbook.vsto
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\PolicyWorkbook\bin\Debug\PolicyWorkbook.xlsx
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\PolicyWorkbook\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\PolicyWorkbook\obj\Debug\PolicyWorkbook.Properties.Resources.resources
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\PolicyWorkbook\obj\Debug\PolicyWorkbook.Sheet1.resources
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\PolicyWorkbook\obj\Debug\PolicyWorkbook.csproj.GenerateResource.Cache
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\PolicyWorkbook\obj\Debug\PolicyWorkbook.dll
+C:\Demo\TechED\RehostingDemo\CustomRulebaseService\PolicyWorkbook\obj\Debug\PolicyWorkbook.pdb
